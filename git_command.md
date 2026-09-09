@@ -34,4 +34,8 @@ git status
 
 ### to push files from local repository to github
 
-git push
+git push name branch
+
+### command for adding remote repository to local repository
+git remote add new path
+
